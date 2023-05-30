@@ -37,7 +37,7 @@ ul {
 }
 
 .header-logo {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -47,7 +47,7 @@ ul {
 }
 
 .header-span {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -94,7 +94,7 @@ ul {
 }
 
 .hero-btn {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -202,7 +202,7 @@ ul {
 }
 
 .footer-logo {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -213,7 +213,7 @@ ul {
 }
 
 .footer-span {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -236,7 +236,7 @@ ul {
 }
 
 .portfolio-button {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
